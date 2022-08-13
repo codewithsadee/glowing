@@ -1,0 +1,287 @@
+Glowing - Reveal The Beauty of Skin
+
+
+
+#---------- HEADER ----------#
+
+Free Shipping On All U.S. Orders $50+
+
+aria-label = open menu
+
+placeholder = Search product
+
+aria-label = search
+
+<ion-icon name="search-outline" aria-hidden="true"></ion-icon>
+
+alt = Glowing
+
+aria-label = user
+
+<ion-icon name="person-outline" aria-hidden="true" aria-hidden="true"></ion-icon>
+
+aria-label = favourite item
+
+<ion-icon name="star-outline" aria-hidden="true"></ion-icon>
+0
+
+aria-label = cart item
+
+$0.00
+<ion-icon name="bag-handle-outline" aria-hidden="true"></ion-icon>
+0
+
+Home
+Collection
+Shop
+Offer
+Blog
+
+
+
+#---------- MOBILE NAVBAR ----------#
+
+alt = Glowing
+
+aria-label = close menu
+
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+Home
+Collection
+Shop
+Offer
+Blog
+
+
+
+#---------- HERO ----------#
+
+Reveal The
+Beauty of Skin
+
+Made using clean, non-toxic ingredients, our products are designed for everyone.
+
+Starting at $7.99
+
+Shop Now
+
+
+
+#---------- COLLECTION ----------#
+
+Summer Collection
+
+Starting at $17.99
+
+Shop Now
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+What’s New?
+
+Get the glow
+
+Discover Now
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+Buy 1 Get 1
+
+Starting at $7.99
+
+Discover Now
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- SHOP ----------#
+
+Our Bestsellers
+
+Shop All Products
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+alt = Facial cleanser
+
+aria-label = 20% off
+-20%
+
+aria-label = add to cart
+<ion-icon name="bag-handle-outline" aria-hidden="true"></ion-icon>
+
+aria-label = add to whishlist
+<ion-icon name="star-outline" aria-hidden="true"></ion-icon>
+
+aria-label = compare
+<ion-icon name="repeat-outline" aria-hidden="true"></ion-icon>
+
+$39.00
+$29.00
+
+Facial cleanser
+
+aria-label = 5 start rating
+
+<ion-icon name="star" aria-hidden="true"></ion-icon>
+
+5170 reviews
+
+
+alt = Bio-shroom Rejuvenating Serum
+
+Bio-shroom Rejuvenating Serum
+
+
+alt = Coffee Bean Caffeine Eye Cream
+
+Coffee Bean Caffeine Eye Cream
+
+
+alt = Facial cleanser
+
+Facial cleanser
+
+
+alt = Coffee Bean Caffeine Eye Cream
+
+Coffee Bean Caffeine Eye Cream
+
+Under $25
+
+Shop All Products
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- BANNER ----------#
+
+New Collection
+
+Discover Our Autumn Skincare
+
+Explore More
+
+25% off Everything
+
+Makeup with extended range in colors for every human.
+
+Shop Sale
+
+
+
+#---------- FEATURE ----------#
+
+Why Shop with Glowing?
+
+alt = Guaranteed PURE
+
+Guaranteed PURE
+
+All Grace formulations adhere to strict purity standards and will never contain harsh or toxic ingredients
+
+alt = Completely Cruelty-Free
+Completely Cruelty-Free
+
+alt = Ingredient Sourcing
+Ingredient Sourcing
+
+
+
+#---------- OFFER ----------#
+
+alt = offer products
+
+Special Offer
+
+aria-label = 20% off
+
+-20%
+
+Mountain Pine Bath Oil
+
+Made using clean, non-toxic ingredients, our products are designed for everyone.
+
+aria-label = days
+15
+
+aria-label = hours
+21
+
+aria-label = minutes
+46
+
+aria-label = seconds
+08
+
+Get Only $39.00
+
+
+
+#---------- BLOG ----------#
+
+More to Discover
+
+alt = Find a Store
+Find a Store
+
+Our Store
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+alt = From Our Blog
+From Our Blog
+
+alt = Our Story
+Our Story
+
+
+
+#---------- FOOTER ----------#
+
+Company
+
+Find a location nearest you. See
+Our Stores
+
++391 (0)35 2568 4593
+hello@domain.com
+
+Useful links
+
+New Products
+Best Sellers
+Bundle & Save
+Online Gift Card
+
+Infomation
+
+Start a Return
+Contact Us
+Shipping FAQ
+Terms & Conditions
+Privacy Policy
+
+Good emails.
+
+Enter your email below to be the first to know about new collections and product launches.
+
+placeholder = Enter your email address
+
+Subscribe
+
+&copy; 2022 codewithsadee
+
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-youtube"></ion-icon>
+
+alt = Glowing
+
+alt = available all payment method
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = back to top
+
+<ion-icon name="arrow-up" aria-hidden="true"></ion-icon>
