@@ -893,7 +893,7 @@ body {
   padding-inline-end: 145px;
   border: 1px solid var(--hoockers-green_20);
   border-radius: var(--radius-3);
-  outline: none;
+  outline-color: transparent;
   transition: var(--transition-1);
 }
 
@@ -1261,7 +1261,7 @@ body {
     border-radius: var(--radius-3);
     padding: 10px 20px;
     padding-inline-end: 40px;
-    outline: none;
+    outline-color: transparent;
     transition: var(--transition-1);
   }
 
